@@ -1,5 +1,5 @@
 module github.com/hsldymq/goiterx
 
-go 1.22.5
+go 1.23.0
 
-require github.com/hsldymq/goiter v0.18.0
+require github.com/hsldymq/goiter v1.0.0
